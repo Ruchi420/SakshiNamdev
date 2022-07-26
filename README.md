@@ -1,6 +1,8 @@
  <h1 align="center">Hi 👋
  <h2 align="center">I'm Sakshi Namdev</h2>
 <h3 align="center">A passionate developer from India</h3>
+ 
+ <img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchi420&label=Profile%20views&color=0e75b6&style=flat" alt="ruchi420" /> </p>
 
